@@ -1,7 +1,7 @@
 {
   "name": "filmes",
   "version": "0.0.0",
-  "description": "Curso avançado angular",
+  "description": "Desenvolvimento de uma aplicação para gestão de filmes com as tecnologias Angular Material, Json Server, NGX-Infinite Scroll e RxJS.",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
